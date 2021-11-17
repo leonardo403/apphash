@@ -1,0 +1,3 @@
+hash:
+    path: /app/hash/{string}
+    controller: App\Controller\AppHashController.php::hash
